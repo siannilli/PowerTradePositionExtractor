@@ -1,0 +1,2 @@
+# PowerTradePositionExtractor
+Development challenge
